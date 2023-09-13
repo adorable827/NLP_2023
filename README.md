@@ -14,6 +14,6 @@ Python basics
 Emoji (https://gist.github.com/rxaviers/7360908) Markdown syntax (https://www.markdownguide.org/basic-syntax/)
 | # | Sessions | keywords
 | :--: | :--: | :--: |
-| 1 | Code Cells | [varialbe, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb) |
+| 1 | Code Cells | [varialbe, assign](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 | 2 | Five Types of Data | [numer, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb) |
 | 3 | Indexing & Slicing | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb) |
