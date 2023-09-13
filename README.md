@@ -10,3 +10,5 @@ Python basics
 - Python Exercise 200 by 장삼용, 정보문화사 2017
 - [Jump to Python](https://wikidocs.net/book/1)
 - [wikidocs for nltk](https://wikidocs.net/21667)
+
+Emoji (https://gist.github.com/rxaviers/7360908) Markdown syntax (https://www.markdownguide.org/basic-syntax/)
