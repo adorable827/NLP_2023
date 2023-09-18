@@ -19,6 +19,7 @@
 * [Emoji](https://gist.github.com/rxaviers/7360908)
 * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
+| # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells💝 | [varialbe, assign](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 | 2 | Five Types of Data💎 | [numer, string, list, tuple, dictionary](https://github.com/adorable827/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
