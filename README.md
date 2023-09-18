@@ -1,5 +1,10 @@
 # NLP_2023
 
+# ✂️✏️📌 **How to Use <font color = 'red'> Markdown Language**
+* ## For <font color = 'pink'> more syntax</font> of markdown langauge, [Click here♥](https://www.markdownguide.org/basic-syntax/)
+
+
+
 # :full_moon: :rabbit2: :cherry_blossom: Python Language
 ## **Learning Python** usung **colab** 
 
@@ -12,8 +17,9 @@ Python basics
 - [wikidocs for nltk](https://wikidocs.net/21667)
 
 Emoji (https://gist.github.com/rxaviers/7360908) Markdown syntax (https://www.markdownguide.org/basic-syntax/)
-| # | Sessions | keywords
-| :--: | :--: | :--: |
-| 1 | Code Cells | [varialbe, assign](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
-| 2 | Five Types of Data | [numer, string, list, tuple, dictionary](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
-| 3 | Indexing & Slicing | [:, 0, -1, link +, repeat *, length len](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
+|#|Sessions|Keywords|
+|:--:|:--:|:--:|
+| 1 | Code Cells💝 | [varialbe, assign](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
+| 2 | Five Types of Data💎 | [numer, string, list, tuple, dictionary](https://github.com/adorable827/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
+| 3 | Indexing & Slicing🍬💌 | [:, 0, -1, link +, repeat *, length len](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
+
