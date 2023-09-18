@@ -20,6 +20,7 @@
 * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 ### **5. Class Materials**
+
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|  
