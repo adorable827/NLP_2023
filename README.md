@@ -3,9 +3,8 @@
 # ✂️✏️📌 **How to Use <font color = 'red'> Markdown Language**
 * ## For <font color = 'pink'> more syntax</font> of markdown langauge, [Click here♥](https://www.markdownguide.org/basic-syntax/)
 
-  # 👶🍼🐤 **Python Language**
+# 👶🍼🐤 **Python Language**
 
-# :full_moon: :rabbit2: :cherry_blossom: Python Language
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
 ### **1. Sign up github** ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=c-NikCpec7U))
