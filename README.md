@@ -24,4 +24,5 @@
 | 1 | Code Cells 💝 | [variable, assign](https://github.com/adorable827/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|  
 | 2 | Five Types of Data 💎 | [number, string, list, tuple, dictionary](https://github.com/adorable827/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 | 3 | Indexing & Slicing 🍬💌 | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+| 4 | Statements 🥇💓 | [if ~:](https://github.com/adorable827/NLP_2023/blob/main/4_1_IfStatement.ipynb)|
 
