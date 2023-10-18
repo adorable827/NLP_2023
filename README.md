@@ -26,3 +26,4 @@
 | 3 | Indexing & Slicing 🍬💌 | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
 | 4 | Statements 🥇💓 | [if ~:](https://github.com/adorable827/NLP_2023/blob/main/4_1_IfStatement.ipynb)|
 
+# hello
